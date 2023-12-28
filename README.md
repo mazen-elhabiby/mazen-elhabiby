@@ -22,15 +22,28 @@
 
 
 ## 🌍 Work Experience
-- **Micro Engineering Tech Inc., Calgary**
-  - *Software Engineering Intern (May 2023 – September 2023)*
-  - Led accessibility navigation application testing and implemented an SQL-integrated dashboard using PHP Laravel and Orchid.
-- **University of Calgary – Geomatics Multi-Sensor Systems Group**
-  - *Student Research Assistant (May 2023 – August 2023)*
-  - Supported navigation algorithm testing for autonomous vehicles and indoor robotics.
-- **SensorUp Inc., Calgary**
-  - *Software Engineering Intern (June 2022 – August 2022)*
-  - Conducted comprehensive application testing for IoT in the Oil and Gas sector.
+
+### Micro Engineering Tech Inc., Calgary
+- **Software Engineering Intern (May 2023 – September 2023)**
+  - Led accessibility navigation application testing, improving user experience and accessibility.
+  - Implemented an SQL-integrated dashboard using PHP Laravel and Orchid, enhancing data visualization and reporting capabilities.
+  - Collaborated with cross-functional teams to develop and refine application features.
+  - Contributed to the design and development of new software features, focusing on scalability and user experience.
+
+### University of Calgary – Geomatics Multi-Sensor Systems Group
+- **Student Research Assistant (May 2023 – August 2023)**
+  - Assisted in navigation algorithm testing for autonomous vehicles and indoor robotics, contributing to advancements in autonomous navigation.
+  - Participated in research and development activities, including data collection, analysis, and reporting.
+  - Collaborated with faculty and other researchers to develop and test innovative navigation solutions.
+  - Engaged in problem-solving and troubleshooting technical issues during research experiments.
+
+### SensorUp Inc., Calgary
+- **Software Engineering Intern (June 2022 – August 2022)**
+  - Conducted comprehensive application testing for IoT in the Oil and Gas sector, ensuring reliability and performance.
+  - Involved in the development and optimization of IoT applications, focusing on efficiency and user experience.
+  - Worked on integrating IoT devices with cloud platforms, enhancing data management and analysis capabilities.
+  - Participated in team meetings and contributed to project planning and execution, ensuring timely delivery of objectives.
+
 
 ## 👨‍💻 Projects
 - 
