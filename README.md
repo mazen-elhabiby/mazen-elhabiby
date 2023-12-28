@@ -41,7 +41,7 @@
 - Keen interest in **New and Cutting Edge Technologies**, constantly learning and applying the latest trends in tech.
 
 ## 📄 Resume
-- Download my resume [here](https://github.com/mazen-elhabiby/Resume)
+- Download my resume [here](https://github.com/mazen-elhabiby/Resume/raw/main/Mazen-El-Habiby-Resume.pdf)
 
 ## 📫 How to reach me
 - LinkedIn: [Mazen El Habiby](https://www.linkedin.com/in/mazen-el-habiby/)
