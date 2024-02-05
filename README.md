@@ -38,6 +38,3 @@
 - Email: mazenelhabiby@gmail.com
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mazen-elhabiby/mazen-elhabiby/output/snake.svg" alt="Snake animation" />
