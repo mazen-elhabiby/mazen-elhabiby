@@ -58,7 +58,7 @@
 - Download my resume [here](https://github.com/mazen-elhabiby/Resume/raw/main/Mazen-El-Habiby-Resume.pdf)
 
 ## 📫 How to reach me
-- LinkedIn: [Mazen El Habiby](https://www.linkedin.com/in/mazen-el-habiby/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mazenelhabiby) 
 - Email: mazenelhabiby@gmail.com
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
