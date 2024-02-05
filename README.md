@@ -11,7 +11,8 @@
 - **DevOps Tools:** Proficient with Terraform for infrastructure as code, familiar with CI/CD pipelines, and experience in using Docker for containerization
 - **Web Development:** Full-stack development capabilities, including front-end design with ReactJS and backend development with PHP/Laravel, Node.js and Java
 - **AI & Machine Learning:** knowledge of machine learning algorithms and experience in implementing AI solutions with Python libraries
-- **Data Analysis:** Ability to perform data analysis using Python (Pandas, NumPy) and visualize data using tools like Tableau or Power BI
+- **Data Analysis:** Ability to perform data analysis using Python (Pandas, NumPy) and visualize data using tools matplotlib
+  
 
 ## Tools & Platforms
 - **Version Control:** Proficient with GIT, GitHub, and Bitbucket
