@@ -83,4 +83,4 @@ A Maven-Managed Java Project for Data Structure Implementation
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mazenelhabiby) 
 - Email: mazenelhabiby@gmail.com
 
-Feel free to reach out if you have any questions or if you want to collaborate on a project!
+Feel free to reach out if you have any questions any project of mine as most are in private repos or if you want to collaborate on a project!
