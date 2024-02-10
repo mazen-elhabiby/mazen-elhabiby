@@ -77,7 +77,7 @@ A Maven-Managed Java Project for Data Structure Implementation
 - Understanding of RDT Protocols: Gained insights into reliable data transfer protocols, specifically the stop-and-wait RDT 3.0 protocol, for ensuring reliable communication over networks.
 
 ## 📄 Resume
-- Download my resume [here](https://github.com/mazen-elhabiby/Resume/raw/main/Mazen-El-Habiby-Resume.pdf)
+- Download my resume [here](https://github.com/mazen-elhabiby/Resume/raw/main/Mazen_El_Habiby_Resume.pdf)
 
 ## 📫 How to reach me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mazenelhabiby) 
