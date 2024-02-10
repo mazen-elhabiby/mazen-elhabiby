@@ -69,7 +69,6 @@ A Maven-Managed Java Project for Data Structure Implementation
 
 ## Things I learned this year
 - Design and Implementation of Embedded Systems: Learned about designing applications with microcontrollers, utilizing UART and Timer peripherals for real-time applications like timer apps and LED light control, emphasizing the importance of interrupt-driven design for power efficiency.
-- Software Development in ANSI C and Java: Gained experience in developing applications in ANSI C for embedded systems and Java for creating GUI-based applications, including database connectivity and data processing.
 - Parallel Programming and Process Synchronization: Acquired knowledge in parallelizing tasks using pthreads and process-level concurrency, including the use of semaphores for synchronization and shared memory for process communication.
 - Network Programming and Analysis: Developed understanding in socket programming, including TCP and UDP protocols, and analyzed network communication using tools like Wireshark.
 - Algorithm Implementation: Implemented algorithms such as Dijkstra’s link state routing and the Hillis/Steele prefix sum algorithm, enhancing my problem-solving and algorithmic thinking skills.
